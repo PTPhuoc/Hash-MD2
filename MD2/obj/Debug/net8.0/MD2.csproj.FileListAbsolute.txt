@@ -1,0 +1,14 @@
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.GeneratedMSBuildEditorConfig.editorconfig
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.AssemblyInfoInputs.cache
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.AssemblyInfo.cs
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.csproj.CoreCompileInputs.cache
+F:\my_project\c_chap_app\md2\MD2\bin\Debug\net8.0\MD2.exe
+F:\my_project\c_chap_app\md2\MD2\bin\Debug\net8.0\MD2.deps.json
+F:\my_project\c_chap_app\md2\MD2\bin\Debug\net8.0\MD2.runtimeconfig.json
+F:\my_project\c_chap_app\md2\MD2\bin\Debug\net8.0\MD2.dll
+F:\my_project\c_chap_app\md2\MD2\bin\Debug\net8.0\MD2.pdb
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.dll
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\refint\MD2.dll
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.pdb
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\MD2.genruntimeconfig.cache
+F:\my_project\c_chap_app\md2\MD2\obj\Debug\net8.0\ref\MD2.dll
